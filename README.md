@@ -11,7 +11,7 @@ npm i --save unzip
 ```
 
 ```js
-var dynamic = require('dynamic.js')
+var dynamic = require('lisa.dynamic.js')
 
 dynamic.require('/xxxx/demo/test.js').then(m =>{
     m.test()
