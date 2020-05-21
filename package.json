@@ -1,5 +1,5 @@
 {
-  "name": "dynamic.js",
+  "name": "lisa.dynamic.js",
   "version": "1.0.0",
   "description": "dynamic load single local or remote js file",
   "main": "index.js",

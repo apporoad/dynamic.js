@@ -3,7 +3,7 @@ dynamic load single local or remote js file
 
 ## how to use
 ```bash
-npm i --save dynamic.js
+npm i --save lisa.dynamic.js
 
 ## if you need unzip
 npm i --save unzip
