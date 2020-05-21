@@ -1,0 +1,31 @@
+{
+  "name": "dynamic.js",
+  "version": "1.0.0",
+  "description": "dynamic load single local or remote js file",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apporoad/dynamic.js.git"
+  },
+  "keywords": [
+    "dynamic",
+    "load",
+    "module",
+    "remote"
+  ],
+  "author": "apporoad",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apporoad/dynamic.js/issues"
+  },
+  "homepage": "https://github.com/apporoad/dynamic.js#readme",
+  "devDependencies": {},
+  "dependencies": {
+    "hent": "^1.0.2",
+    "lisa.utils": "^2.1.0",
+    "unzip": "^0.1.11"
+  }
+}
